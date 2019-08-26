@@ -10,4 +10,7 @@ Mybatis
 对应配置文件位置：
 Mybatis：Mybatis-generator.xml
 
+集成插件：
+mybatis-generator-maven-plugin
+
 长期更新中
